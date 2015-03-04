@@ -15,7 +15,7 @@ if you want another exchange rate then have a look at https://coinbase.com/api/v
 
 for example
 
-british pound = btc_to_gbp and gbp_to_btc
-us dollar  = btc_to_usd and usd_to_btc
+* british pound = btc_to_gbp and gbp_to_btc
+* us dollar  = btc_to_usd and usd_to_btc
 
 after than, change this in btc and data variable...
