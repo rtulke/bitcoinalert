@@ -8,7 +8,8 @@ install:
 * change smtp settings (email, username, password, server, port)
 * chmod 700 bitcoinalert.py
 * crontab -e
-  */1	*	*	*	*	/home/yourname/bitcoinaltert.py
+
+*/1	*	*	*	*	/home/yourname/bitcoinaltert.py
 
 if you want another exchange rate then have a look at https://coinbase.com/api/v1/currencies/exchange_rates and pick your rate. 
 
