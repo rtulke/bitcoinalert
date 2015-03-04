@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 """
-bitcointalert: bitcoinalert is sending an email if the bitcoin price limit is less than x.xx euro.
+bitcointalert: bitcoinalert is sending an email if your bitcoin price limit is less than x.xx euro.
 @author: Robert Tulke, rt@debian.sh
 @copyright: GPLv2
 @date: 2015-03-04
